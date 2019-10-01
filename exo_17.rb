@@ -13,5 +13,3 @@ until date ==2019
 	puts "Il y a #{y} ans, tu avais la moitié de l'âge que tu as aujourd'hui"
 end
 end
-
-
